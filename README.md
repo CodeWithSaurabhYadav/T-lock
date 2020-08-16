@@ -18,7 +18,6 @@ git clone https://github.com/T3CHMYTH/termux-lock
 Then cd into the the termux-lock directory
 ```
 cd termux-lock
-```
 pip install -r requirements.txt
 ```
 
