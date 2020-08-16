@@ -1,0 +1,2 @@
+cd $PREFIX/share/T-lock/
+python $PREFIX/share/T-lock/termux-lock2.py
