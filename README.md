@@ -20,4 +20,8 @@ Then cd into the the termux-lock directory
 cd termux-lock
 pip install -r requirements.txt
 ```
-
+And then simply run the termux-lock2.py and choose option 1
+```
+python3 termux-lock2.py
+```
+And choose option 1
